@@ -15,7 +15,6 @@ Feature: Add remove elements
       | 1   |
       | 9   |
 
-  @test
 
   Scenario Outline: I can delete buttons
     Given There are <some> "Delete" buttons on the page
